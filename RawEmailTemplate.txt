@@ -1,0 +1,20 @@
+ 
+ 
+ 
+                         { Create Template }                                                                           {Copy From Library}
+							       |
+					  > Template Name  
+					  > Mode
+					      .Use Contacts Shortcodes  (Account Shortcodes ,contact shortcodes,Date shortcodes)
+					      .Use account shortcodes   (Account Shortcodes ,Date shortcodes)
+					  >From (Select react)
+					  >Email Subject 
+					  *Add Sortcodes 
+					  
+				      > .WYSIWYG
+					    .HTML
+					  >Text Editor 
+					 
+					 
+			          [Save&Exit] [save] [Cancel]
+							
